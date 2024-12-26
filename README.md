@@ -1,2 +1,2 @@
-# aura-issues
-Issue tracker for aura.li
+# Aura Issues
+Issue tracker for <a href="https://aura.li">Aura</a>
